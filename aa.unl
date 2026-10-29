@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lab name="aa" id="56565be8-0935-4927-8fe6-60e92a1b5ff6" password="" countdown="" darkmode="1" mode3d="1" nogrid="0" joinable="" joinable_emails="" openable="" openable_emails="" editable="" editable_emails="" multi_config_active="">
+  <topology>
+    <nodes>
+      <node id="1" type="iol" template="iol" config="0" config_data="" multi_config="W10=" delay="0" icon="Router-2D-Gen-White-S.svg" console="" image="L3-ADVENTERPRISEK9-M-15.4-2T.bin" left="1068" name="R1" top="390" width="" size="0" ethernet="4" ram="1024" mtu="9000" backspace="127" terminaltype="linux" lock="0" iol_options="" keepalive="0" Initial_startup_config="1" serial="0" nvram="1024"/>
+    </nodes>
+  </topology>
+</lab>
